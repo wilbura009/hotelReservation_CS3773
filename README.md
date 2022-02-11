@@ -1,6 +1,6 @@
 # Purpose of Project
 
-View as presentation: [Presentation](https://raw.githack.com/beastboy241/hotelReservation_CS3773/main/docs/presentation/presentation.html) \
+View as presentation: [Presentation](https://rawcdn.githack.com/wilbura009/hotelReservation_CS3773/5829efc4192b50f4b9240b4ec46476e0a6ca4a71/docs/presentation/presentation.html) \
 Skip this and get to coding: [GettingStarted](#getting-started-with-create-react-app)
 
 Develop a software product that manages hotel reservations across a group of
